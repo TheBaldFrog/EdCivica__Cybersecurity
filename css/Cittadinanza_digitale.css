@@ -345,6 +345,7 @@ html {
   
   .more-content p {
     text-align: justify;
+    padding: 5px;
   }
   
   .more {
