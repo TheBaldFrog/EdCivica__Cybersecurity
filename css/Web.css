@@ -320,7 +320,7 @@ p {
 .splash-content,
 .more-content,
 .buckets ul {
-  grid-column: 2/4;
+  grid-column: 2/5;
 }
 
 /* Use automatic grid placement + span to let each item span two columns:*/
