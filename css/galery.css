@@ -93,7 +93,7 @@
   transform: translateX(-100%);
 }
 
-.contentH {
+/* .contentH {
   color: #ffffff;
   background-color: #000;
   opacity: 0.7;
@@ -112,7 +112,7 @@
   -o-transform: translateY(120%);
   transform: translateY(120%);
   transition: 0.5s;
-}
+} */
 
 .img-box:hover .contentH {
   transform: translateY(0);
