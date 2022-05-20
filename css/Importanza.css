@@ -311,7 +311,7 @@ html {
   /* Four-column layout. Two center columns have a total max width of 50em: */
   .grid {
     display: grid;
-    grid-template-columns: 1fr repeat(2, minmax(auto, 28em)) 1fr;
+    grid-template-columns: 1fr repeat(2, minmax(auto, 30em)) 1fr;
   }
   
   
